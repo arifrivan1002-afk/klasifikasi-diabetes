@@ -1,0 +1,2 @@
+timestamp_utc,row_count,predicted_0,predicted_1,mean_probability_1,latency_ms
+2026-10-15T13:30:13.485646+00:00,1,0,1,0.682642,75.07
